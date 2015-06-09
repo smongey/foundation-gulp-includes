@@ -1,0 +1,8 @@
+{
+  "name": "foundation-gulp",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "foundation": "~5.5.2"
+  }
+}
